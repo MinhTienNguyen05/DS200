@@ -1,4 +1,4 @@
-.pdf
+*.pdf
 template_lab.java
 .venv
 __pycache__/
