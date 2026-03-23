@@ -1,0 +1,13 @@
+.pdf
+template_lab.java
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
