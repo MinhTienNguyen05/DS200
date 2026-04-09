@@ -1,4 +1,5 @@
 data = LOAD 'output/bai1.csv' USING PigStorage(',') AS (
+    id:chararray,
     word:chararray,
     category:chararray,
     aspect:chararray,
