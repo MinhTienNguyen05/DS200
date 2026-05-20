@@ -12,3 +12,8 @@ __pycache__/
 *.swo
 *.DS_Store
 DS200_doan/
+Lab_3/movies.txt
+Lab_3/ratings_1.txt
+Lab_3/ratings_2.txt
+Lab_3/users.txt
+Lab_3/occupation.txt
