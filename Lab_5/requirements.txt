@@ -1,0 +1,6 @@
+opencv-python
+kafka-python
+numpy
+pyspark
+python-dotenv
+mediapipe

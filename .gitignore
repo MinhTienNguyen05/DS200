@@ -17,3 +17,16 @@ Lab_3/ratings_1.txt
 Lab_3/ratings_2.txt
 Lab_3/users.txt
 Lab_3/occupation.txt
+
+
+# Environments
+*/.env
+
+# Python cache
+*/__pycache__/
+*.pyc
+
+# AI Models & Data
+*.pt
+*/storage_data/
+*/tcp_example.py
